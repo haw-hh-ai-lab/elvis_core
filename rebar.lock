@@ -1,7 +1,7 @@
 {"1.1.0",
 [{<<"aleppo">>,{pkg,<<"inaka_aleppo">>,<<"1.1.0">>},1},
  {<<"katana_code">>,
-  {git,"git@github.com:inaka/katana-code.git",
+  {git,"https://github.com/inaka/katana-code.git",
        {ref,"d6465cb0cbd73e74b132cb5ef5da9440170ae166"}},
   0},
  {<<"zipper">>,{pkg,<<"zipper">>,<<"1.0.1">>},0}]}.
